@@ -3,3 +3,5 @@ local changes
 
 changed from the server
 
+Understanding pull changes
+

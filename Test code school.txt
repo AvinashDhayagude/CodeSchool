@@ -5,3 +5,4 @@ changed from the server
 
 Understanding pull changes
 
+without pull committing the changes

@@ -5,5 +5,4 @@ changed from the server
 
 Understanding pull changes
 
-have started working on it .. made changes
-
+Conflict resolved
